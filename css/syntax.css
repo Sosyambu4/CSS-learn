@@ -1,3 +1,10 @@
+/************************************
+*
+* Author: Wladislaw
+* Date: 17.08.22
+*
+/* Style all p tags */
+
 #header{
     position: absolute;
     top: 0;
@@ -8,8 +15,16 @@
     font-size: 32px;
 
 }
-
+ /* Style all header tags */
 p{
     font-size: 18px;
     color: aqua;
+}
+
+#header p {
+    font-size: 24px;
+}
+
+h1{
+    font-size: 44px;
 }
