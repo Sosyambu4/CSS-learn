@@ -1,44 +1,18 @@
-/************************************
-*
-* Author: Wladislaw
-* Date: 17.08.22
-*
-/* Style all p tags */
 
-#header{
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
-#header h1{
-    font-size: 32px;
-
-}
- /* Style all header tags */
-p{
+#content-header{
     font-size: 18px;
-    color: aqua;
+    color: red;
 }
 
-#header p {
+h2{
     font-size: 24px;
 }
 
-h1{
-    font-size: 32px;
-}
-
-a{
-    text-decoration: underline;
+span{
+    display: block;
     color: blue;
 }
 
-span{
-    text-transform: uppercase;
-}
-
-div{
-    width: 100%;
-    background-color: grey;
+.deck{
+    color:blueviolet
 }
