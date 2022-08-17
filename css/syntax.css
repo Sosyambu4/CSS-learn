@@ -26,5 +26,19 @@ p{
 }
 
 h1{
-    font-size: 44px;
+    font-size: 32px;
+}
+
+a{
+    text-decoration: underline;
+    color: blue;
+}
+
+span{
+    text-transform: uppercase;
+}
+
+div{
+    width: 100%;
+    background-color: grey;
 }
